@@ -1,0 +1,11 @@
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\bin\Debug\netcoreapp3.0\Oef5 - fibonacci.exe
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\bin\Debug\netcoreapp3.0\Oef5 - fibonacci.deps.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\bin\Debug\netcoreapp3.0\Oef5 - fibonacci.runtimeconfig.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\bin\Debug\netcoreapp3.0\Oef5 - fibonacci.runtimeconfig.dev.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\bin\Debug\netcoreapp3.0\Oef5 - fibonacci.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\bin\Debug\netcoreapp3.0\Oef5 - fibonacci.pdb
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\obj\Debug\netcoreapp3.0\Oef5 - fibonacci.csprojAssemblyReference.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\obj\Debug\netcoreapp3.0\Oef5 - fibonacci.AssemblyInfoInputs.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\obj\Debug\netcoreapp3.0\Oef5 - fibonacci.AssemblyInfo.cs
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\obj\Debug\netcoreapp3.0\Oef5 - fibonacci.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef5 - fibonacci\obj\Debug\netcoreapp3.0\Oef5 - fibonacci.pdb

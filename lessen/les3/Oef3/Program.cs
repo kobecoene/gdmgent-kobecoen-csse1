@@ -1,7 +1,6 @@
-﻿cusing System;
-cusing System;
+﻿using System;
 
-namespace les1
+namespace Oef3
 {
     class Program
     {

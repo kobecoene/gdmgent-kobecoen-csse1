@@ -1,0 +1,11 @@
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\bin\Debug\netcoreapp3.0\Oef4 - faculteit.exe
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\bin\Debug\netcoreapp3.0\Oef4 - faculteit.deps.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\bin\Debug\netcoreapp3.0\Oef4 - faculteit.runtimeconfig.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\bin\Debug\netcoreapp3.0\Oef4 - faculteit.runtimeconfig.dev.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\bin\Debug\netcoreapp3.0\Oef4 - faculteit.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\bin\Debug\netcoreapp3.0\Oef4 - faculteit.pdb
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\obj\Debug\netcoreapp3.0\Oef4 - faculteit.csprojAssemblyReference.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\obj\Debug\netcoreapp3.0\Oef4 - faculteit.AssemblyInfoInputs.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\obj\Debug\netcoreapp3.0\Oef4 - faculteit.AssemblyInfo.cs
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\obj\Debug\netcoreapp3.0\Oef4 - faculteit.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef4 - faculteit\obj\Debug\netcoreapp3.0\Oef4 - faculteit.pdb

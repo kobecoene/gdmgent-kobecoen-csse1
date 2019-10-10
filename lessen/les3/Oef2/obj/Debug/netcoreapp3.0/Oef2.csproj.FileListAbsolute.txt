@@ -1,0 +1,11 @@
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\bin\Debug\netcoreapp3.0\Oef2.exe
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\bin\Debug\netcoreapp3.0\Oef2.deps.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\bin\Debug\netcoreapp3.0\Oef2.runtimeconfig.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\bin\Debug\netcoreapp3.0\Oef2.runtimeconfig.dev.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\bin\Debug\netcoreapp3.0\Oef2.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\bin\Debug\netcoreapp3.0\Oef2.pdb
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\obj\Debug\netcoreapp3.0\Oef2.csprojAssemblyReference.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\obj\Debug\netcoreapp3.0\Oef2.AssemblyInfoInputs.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\obj\Debug\netcoreapp3.0\Oef2.AssemblyInfo.cs
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\obj\Debug\netcoreapp3.0\Oef2.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les3\Oef2\obj\Debug\netcoreapp3.0\Oef2.pdb
