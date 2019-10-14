@@ -51,6 +51,11 @@ namespace lessen
                 Console.WriteLine(i);
             }
             // Console.WriteLine("test");
-        }
+
+
+
+            //Oefening 2 Tafels van 5
+            
+        }   
     }
 }

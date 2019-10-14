@@ -6,16 +6,16 @@ namespace Oef4___faculteit
     {
         static void Main(string[] args)
         {
-            int i, fact = 1, number;
+            Console.WriteLine("Geef uw nummer in waarvan je de faculeit van wilt: ");
+            int input = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Enter any Number: ");
-            number = Convert.ToInt32(Console.ReadLine());
-            for (i = 1; i <= number; i++)
+            int factorial = 1;
+            for (int i = 1; i <= input; i++)
             {
-                fact = fact * i;
+                factorial *= i;
             }
 
-            Console.Write("Factorial of " + number + " is: " + fact);
+            Console.WriteLine("De faculteit van " + input + " is: " + factorial);
         }
     }
 }
