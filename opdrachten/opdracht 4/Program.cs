@@ -21,7 +21,7 @@ namespace opdracht_4
        }
        static void Devide(int getal1, int getal2){
            Console.WriteLine("Delen");
-           double result4 = (double) getal1 / getal2;
+           float result4 = (float) getal1 / getal2;
            Console.WriteLine(result4);
        }
 
