@@ -76,11 +76,11 @@ namespace opdarcht_5
 
 			if (ValidateBankAccount(ibanNr))
 			{
-				Console.WriteLine("true");
+				Console.WriteLine("Het IBAN Nummer klopt");
 			}
 			else
 			{
-				Console.WriteLine("false");
+				Console.WriteLine("Het IBAN Nummer klopt niet");
 			}
 
 			// Faculteit
