@@ -1,0 +1,11 @@
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\bin\Debug\netcoreapp3.0\opdracht 6.exe
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\bin\Debug\netcoreapp3.0\opdracht 6.deps.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\bin\Debug\netcoreapp3.0\opdracht 6.runtimeconfig.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\bin\Debug\netcoreapp3.0\opdracht 6.runtimeconfig.dev.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\bin\Debug\netcoreapp3.0\opdracht 6.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\bin\Debug\netcoreapp3.0\opdracht 6.pdb
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\obj\Debug\netcoreapp3.0\opdracht 6.csprojAssemblyReference.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\obj\Debug\netcoreapp3.0\opdracht 6.AssemblyInfoInputs.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\obj\Debug\netcoreapp3.0\opdracht 6.AssemblyInfo.cs
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\obj\Debug\netcoreapp3.0\opdracht 6.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdracht 6\obj\Debug\netcoreapp3.0\opdracht 6.pdb
