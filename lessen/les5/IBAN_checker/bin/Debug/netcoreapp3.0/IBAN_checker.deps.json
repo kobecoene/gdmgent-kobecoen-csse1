@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "IBAN_checker/1.0.0": {
+        "runtime": {
+          "IBAN_checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IBAN_checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

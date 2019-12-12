@@ -1,0 +1,11 @@
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\bin\Debug\netcoreapp3.0\opdarcht 5.exe
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\bin\Debug\netcoreapp3.0\opdarcht 5.deps.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\bin\Debug\netcoreapp3.0\opdarcht 5.runtimeconfig.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\bin\Debug\netcoreapp3.0\opdarcht 5.runtimeconfig.dev.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\bin\Debug\netcoreapp3.0\opdarcht 5.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\bin\Debug\netcoreapp3.0\opdarcht 5.pdb
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\obj\Debug\netcoreapp3.0\opdarcht 5.csprojAssemblyReference.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\obj\Debug\netcoreapp3.0\opdarcht 5.AssemblyInfoInputs.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\obj\Debug\netcoreapp3.0\opdarcht 5.AssemblyInfo.cs
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\obj\Debug\netcoreapp3.0\opdarcht 5.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\opdrachten\opdarcht 5\obj\Debug\netcoreapp3.0\opdarcht 5.pdb

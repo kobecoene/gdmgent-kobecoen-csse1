@@ -1,0 +1,11 @@
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\bin\Debug\netcoreapp3.0\les8.exe
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\bin\Debug\netcoreapp3.0\les8.deps.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\bin\Debug\netcoreapp3.0\les8.runtimeconfig.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\bin\Debug\netcoreapp3.0\les8.runtimeconfig.dev.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\bin\Debug\netcoreapp3.0\les8.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\bin\Debug\netcoreapp3.0\les8.pdb
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\obj\Debug\netcoreapp3.0\les8.csprojAssemblyReference.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\obj\Debug\netcoreapp3.0\les8.AssemblyInfoInputs.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\obj\Debug\netcoreapp3.0\les8.AssemblyInfo.cs
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\obj\Debug\netcoreapp3.0\les8.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les8\obj\Debug\netcoreapp3.0\les8.pdb

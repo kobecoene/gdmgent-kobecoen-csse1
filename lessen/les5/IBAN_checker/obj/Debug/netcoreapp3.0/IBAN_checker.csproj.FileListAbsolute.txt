@@ -1,0 +1,11 @@
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\obj\Debug\netcoreapp3.0\IBAN_checker.csprojAssemblyReference.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\obj\Debug\netcoreapp3.0\IBAN_checker.AssemblyInfoInputs.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\obj\Debug\netcoreapp3.0\IBAN_checker.AssemblyInfo.cs
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\bin\Debug\netcoreapp3.0\IBAN_checker.exe
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\bin\Debug\netcoreapp3.0\IBAN_checker.deps.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\bin\Debug\netcoreapp3.0\IBAN_checker.runtimeconfig.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\bin\Debug\netcoreapp3.0\IBAN_checker.runtimeconfig.dev.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\bin\Debug\netcoreapp3.0\IBAN_checker.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\bin\Debug\netcoreapp3.0\IBAN_checker.pdb
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\obj\Debug\netcoreapp3.0\IBAN_checker.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\IBAN_checker\obj\Debug\netcoreapp3.0\IBAN_checker.pdb

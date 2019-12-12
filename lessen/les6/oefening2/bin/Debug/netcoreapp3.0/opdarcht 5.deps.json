@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "opdarcht 5/1.0.0": {
+        "runtime": {
+          "opdarcht 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "opdarcht 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\bin\Debug\netcoreapp3.0\accountGen.exe
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\bin\Debug\netcoreapp3.0\accountGen.deps.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\bin\Debug\netcoreapp3.0\accountGen.runtimeconfig.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\bin\Debug\netcoreapp3.0\accountGen.runtimeconfig.dev.json
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\bin\Debug\netcoreapp3.0\accountGen.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\bin\Debug\netcoreapp3.0\accountGen.pdb
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\obj\Debug\netcoreapp3.0\accountGen.csprojAssemblyReference.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\obj\Debug\netcoreapp3.0\accountGen.AssemblyInfoInputs.cache
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\obj\Debug\netcoreapp3.0\accountGen.AssemblyInfo.cs
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\obj\Debug\netcoreapp3.0\accountGen.dll
+C:\Users\Kobe\repos\gdmgent-kobecoen-csse1\lessen\les5\accountGen\obj\Debug\netcoreapp3.0\accountGen.pdb
