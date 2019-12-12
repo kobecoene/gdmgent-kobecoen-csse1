@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
@@ -5,4 +6,13 @@
       "C:\\Users\\Kobe\\.nuget\\packages"
     ]
   }
+=======
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kobe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kobe\\.nuget\\packages"
+    ]
+  }
+>>>>>>> 5336f64b0c9d42cf5fad7ad1aa2e422af8863f8f
 }
